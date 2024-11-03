@@ -28,8 +28,5 @@ int main()
     printf("a=%d b=%d\n",a,b);
     printf("%d\n",arr[mode-1](a,b));
 
-
-
-
     return 0;
 }
